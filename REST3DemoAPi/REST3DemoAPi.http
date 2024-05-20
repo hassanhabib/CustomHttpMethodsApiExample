@@ -1,0 +1,6 @@
+@REST3DemoAPi_HostAddress = http://localhost:5106
+
+GET {{REST3DemoAPi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
